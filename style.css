@@ -18,7 +18,7 @@
     align-items: center;
     background-color: #FFFFFF;
     height: 100vh;
-    border-style: solid;
+   
     
 }
 
@@ -28,7 +28,7 @@
     max-width: 600px; 
     padding: 40px; 
     text-align: center; 
-    border-style: solid;
+    
     
     
 }
@@ -48,7 +48,6 @@
     width: 80%;
     height: 35px;
     max-width: 350px;
-    border-style: solid;
     padding: 25px;
     margin-top: 15px;
     border-radius: 5px;
@@ -59,7 +58,7 @@
 
 .container-options {
     margin-bottom: 20px;
-    border-style: solid;
+   
 }
 
 .container-options > label {
@@ -70,7 +69,6 @@
     width: 50%;
     max-width: 50%; 
     text-align: center;
-    border-style: solid;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
